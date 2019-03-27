@@ -36,7 +36,7 @@ h3 {
 	letter-spacing: 0.5em;
 	border-bottom-width: 1px;
 	border-bottom-style: inset;
-	border-bottom-color: #9B9744;
+	border-bottom-color: #B21C12;
 	padding: 4px 0;
 	font-variant: small-caps;
 	font-style: italic;
@@ -93,7 +93,7 @@ img {
 }
 
 iframe {
-	border: solid #999933 1px;
+	border: solid #000 1px;
 	padding: 8px;
 	margin: 8px;
 }
