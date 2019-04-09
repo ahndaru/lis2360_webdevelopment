@@ -9,6 +9,14 @@ body {
 	color: #FCFFE2;
 	background-color: #095EB2;
 	padding: 0 40px;
+	width: 1200px;
+}
+
+container {
+	width: 900px;
+	margin: 0 auto;
+    background-color: #fff;
+    overflow: hidden;
 }
 
 /* basic text styles ----------------------------  */
